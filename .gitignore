@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
+
+# Data (raw datasets usually shouldn't go in git)
+data/*
+!data/.gitkeep
+
+# OS
+.DS_Store
