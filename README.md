@@ -7,6 +7,8 @@ dashboard.
 
 Built on 49,495 international matches (1872–2026) covering 336 national teams.
 
+![World Cup 2026 dashboard — Monte Carlo tournament simulator](screenshot.png)
+
 ## What it does
 
 **Match predictor** — win/draw/loss probabilities for any two national teams, with
